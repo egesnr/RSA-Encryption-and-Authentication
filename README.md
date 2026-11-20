@@ -1,4 +1,2 @@
-# RSA-Encripton-and-Authentication
-Two way encription with RSA libary. 
-
-Firstly, encrpyt the file then signed for authentication. Socket communication is to verify if signed value is true or not.  
+# RSA-Encryption-and-Authenticationn
+File encryption and digital signatures with RSA for confidentiality and authentication. Python.
